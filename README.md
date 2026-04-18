@@ -55,7 +55,25 @@ https://github.com/fabofficial860-cyber/code-project/blob/main/ButtonPressed.png
 Lab4c_ImageButtonExpressed -O/P link
 https://github.com/fabofficial860-cyber/code-project/blob/main/ImageButtonExample.png
 
+Lab5a_JListExample - O/P link
+https://github.com/fabofficial860-cyber/code-project/blob/main/JListExample.png
 
+Lab5a_JListExample - O/P link
+https://github.com/fabofficial860-cyber/code-project/blob/main/JListExample1.png
 
+Lab5b_TabbedPaneExample - O/P link
+https://github.com/fabofficial860-cyber/code-project/blob/main/TabbedPanExample.png
+
+Lab5c_CountryCapital - O/P link
+https://github.com/fabofficial860-cyber/code-project/blob/main/CountryCapital1.png
+
+Lab5c_CountryCapita2 - O/P link
+https://github.com/fabofficial860-cyber/code-project/blob/main/CountryCapital2.png
+
+Lab5d_ColorTabbedPane1 - O/P link
+https://github.com/fabofficial860-cyber/code-project/blob/main/ColorTabbedPane1.png
+
+Lab5d_ColorTabbedPane2 - O/P link
+https://github.com/fabofficial860-cyber/code-project/blob/main/ColorTabbedPane2.png
 
 
