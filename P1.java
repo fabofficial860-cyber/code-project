@@ -1,5 +1,4 @@
-/*Write a java program for getting different colors through ArrayList interface and search whether
-the color &quot;Red&quot; is available or not
+/*Write a Java program to store different colors using the ArrayList interface and search whether the color "Red" is available or not
     */
 
 package Lab1;
