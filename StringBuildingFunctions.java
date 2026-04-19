@@ -1,3 +1,7 @@
+/* Write a Java program to perform various string operations using user-defined functions, including: checking if
+  a string is null or empty, counting substring occurrences, reversing a string, checking palindrome (ignoring case and punctuation), 
+  removing whitespace, capitalizing words, truncating a string with ellipsis, verifying numeric strings, generating a random string, and counting words. */
+
 package Lab3;
 public class StringBuildingFunctions {
 
